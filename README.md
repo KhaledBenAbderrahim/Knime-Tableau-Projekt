@@ -1,6 +1,9 @@
 <h1 align="center" width="100%"  >
     Knime-Tableau-Projekt
 </h1>
+<h3 align="center" width="100%"  >
+Diese Projekt wurde im rahmen meine DataScience weiterbildung entwickelt
+</h3>
 
 <h1 align="center" width="100%"  >
     Preprocessing | KNIME
