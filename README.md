@@ -2,7 +2,7 @@
     Knime-Tableau-Projekt
 </h1>
 <h3 align="center" width="100%"  >
-Diese Projekt wurde im rahmen meine DataScience weiterbildung entwickelt
+Diese Projekt wurde im rahmen   weiterbildung Data Science entwickelt
 </h3>
 
 <h1 align="center" width="100%"  >
